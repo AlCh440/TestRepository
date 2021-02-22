@@ -1,13 +1,9 @@
 ## Lenguages I should now:
 
-*c#
-
+*C#
 *Go
-
-*pure_basic
-
+*Pure basic
 *html
-
 *java
 *python
 *???
